@@ -72,3 +72,14 @@ Instale el bot con un solo click! para que este activo 24/7
 * Panel [`Click aquí`](https://panel.boxmineworld.com/)
 
 ---------
+
+
+### REPLIT
+[![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtu.be/SMjCcfuyWQE)
+
+[![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/elrebelde21/The-LoliBot-MD)
+<a href="https://replit.com/github/elrebelde21/The-LoliBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+-----
+- [x] Resultado <details><summary>Importar Repositorio - The-LoliBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
+------------------
